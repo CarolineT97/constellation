@@ -1,5 +1,7 @@
 table {
     text-align: center;
     vertical-align: auto;
-    border:1px black;
+}
+td {
+    border: 1px solid black;
 }
